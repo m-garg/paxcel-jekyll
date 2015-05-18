@@ -1,3 +1,3 @@
 var paxcel = module.exports = {};
 
-paxcel.Base = require("./lib/base.js");
+paxcel.base = require("./lib/base.js");
