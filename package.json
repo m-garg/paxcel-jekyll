@@ -5,11 +5,11 @@
     "name": "Manish Garg",
     "email": "manish.garg@paxcel.net"
   },
-  "description" : "Commande line app for Paxcel Technologies." ,
+  "description" : "Tool for creating website using Jekyll and hosting on Github." ,
   "repository" :
       { 
         "type" : "git",
-        "url" : "https://github.com/manishGarg57/paxcel-cli"
+        "url" : "https://github.com/manishGarg57/paxcel-jekyll"
       },
   "engines": {
     "node": ">=0.12.0"
