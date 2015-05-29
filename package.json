@@ -1,25 +1,26 @@
 {
-    "name": "paxcel-jekyll",
-    "version": "0.0.0",
-    "author": {
-        "name": "Manish Garg",
-        "email": "manish.garg@paxcel.net"
-    },
-    "description": "Tool for creating website using Jekyll and hosting on Github.",
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/manishGarg57/paxcel-jekyll"
-    },
-    "engines": {
-        "node": ">=0.12.0"
-    },
-    "dependencies": {
-        "async": "^0.9.0",
-        "chalk": "^1.0.0",
-        "github": "^0.2.4",
-        "inquirer": "^0.8.4",
-        "js-yaml": "^3.3.1",
-        "lodash": "^3.8.0",
-        "ncp": "^2.0.0"
-    }
+  "name": "paxcel-jekyll",
+  "version": "0.0.1",
+  "author": {
+    "name": "Manish Garg",
+    "email": "manish.garg@paxcel.net"
+  },
+  "description": "Tool for creating website using Jekyll and hosting on Github.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/manishGarg57/paxcel-jekyll"
+  },
+  "engines": {
+    "node": ">=0.12.0"
+  },
+  "dependencies": {
+    "async": "^0.9.0",
+    "chalk": "^1.0.0",
+    "github": "^0.2.4",
+    "inquirer": "^0.8.4",
+    "js-yaml": "^3.3.1",
+    "lodash": "^3.8.0",
+    "ncp": "^2.0.0",
+    "rimraf": "^2.3.4"
+  }
 }
